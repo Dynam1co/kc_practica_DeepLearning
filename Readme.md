@@ -20,3 +20,13 @@ La resolución de la práctica se ha hecho en Python usando varios notebooks de 
 Las imágenes quedarán guardadas en la carpeta **img** por el volumen de datos que hay, las imágenes no están incluidas en el repositorio GitHub
 
 [Descarga de imágenes](descargaImagenes.ipynb)
+
+### 2. Tratamiento de datos y generación de características
+Se ha usado el mismo código que en la práctica de la asignatura de Machine Learning para hacer la limpieza y el tratamiento de los datos. Para esto se ha usado el siguiente Notebook:
+
+[Tratamiento de datos](limpiezaCategEscalado.ipynb)
+
+### 3. Red neuronal regresión solo con datos numéricos
+En este paso se usan los datsets que contienen únicamente datos numéricos para hacer una red neuronal tradicional y predecir el precio del apartamento.
+
+[Red neuronal tradicional](01_neuralNetworkRegression.ipynb)

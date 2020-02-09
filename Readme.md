@@ -30,3 +30,8 @@ Se ha usado el mismo código que en la práctica de la asignatura de Machine Lea
 En este paso se usan los datsets que contienen únicamente datos numéricos para hacer una red neuronal tradicional y predecir el precio del apartamento.
 
 [Red neuronal tradicional](01_neuralNetworkRegression.ipynb)
+
+### 4. Red neuronal combinando datos numéricos (MLP) con imágenes (CNN)
+En este paso usamos los datos numéricos para generar un modelo MLP y las imágenes para generar un modelo CNN. Después combinamos ambos modelos y evaluamos los resultados de ese modelo conjunto.
+
+[Redes neuronales mixtas](02_mixedNeuralNetwork.ipynb)
